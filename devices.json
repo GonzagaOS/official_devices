@@ -1,42 +1,14 @@
 [
    {
-      "name": "Redmi 5 Plus",
-      "brand": "Xiaomi",
-      "codename": "vince",
+      "name": "Realme C11",
+      "brand": "Realme",
+      "codename": "RMX2185",
       "supported_versions": [
          {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Dhimas Bagus Prayoga (Kry9toN)",
-            "maintainer_url": "https://github.com/Kry9toN",
-            "xda_thread": "Undefined"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 8",
-      "brand": "Xiaomi",
-      "codename": "ginkgo",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Ahmad Thoriq Najahi",
-            "maintainer_url": "https://github.com/Najahiiii",
-            "xda_thread": "Undefined"
-         }
-      ]
-    },
-    {
-      "name": "POCO F1",
-      "brand": "Xiaomi",
-      "codename": "beryllium",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Harun Al Rasyid",
-            "maintainer_url": "https://github.com/goodmeow",
+            "version_code": "twelve",
+            "version_name": "12",
+            "maintainer_name": "Rayhan77",
+            "maintainer_url": "https://github.com/RayhanDz",
             "xda_thread": "Undefined"
          }
       ]
